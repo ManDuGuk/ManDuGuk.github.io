@@ -1,4 +1,9 @@
-.contents_wraper {
+body {
+    display: flex;
+    justify-content: center;
+}
 
-    margin: 10% 10% 20% 20%;
+.contents_wraper {
+    margin-top: 10%;
+    width: 60%;
 }
